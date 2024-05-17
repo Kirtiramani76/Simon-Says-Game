@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+}
+.box{
+height: 180px;
+align-content: center;
+width: 180px;
+border-radius: 15%;
+border: 6px solid black;
+margin: 2rem;
+}
+.box-container{
+    display: flex;
+    justify-content: center;
+}
+.pink{
+    background-color: palevioletred;
+}
+.brown{
+    background-color:rgb(179, 116, 71);
+}
+.green{
+    background-color:seagreen;
+}
+.blue{
+    background-color: steelblue;
+}
+.gameFlash{
+    background-color: whitesmoke;
+}
+.userFlash{
+    background-color: purple;
+}
